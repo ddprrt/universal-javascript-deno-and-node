@@ -1,1 +1,1 @@
-export const url_prefix = "https://workingdraft.de/";
+export const url_prefix = "https://add-your-url-here.com/";
